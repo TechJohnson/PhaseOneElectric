@@ -260,7 +260,7 @@ header form button:hover {
 }
 
 .section3 .family .family-img {
-  width: 50%;
+  width: 45%;
 }
 
 .section3 .family .family-img img {
@@ -705,7 +705,8 @@ footer form button:hover {
             align-items: center;
   }
   .section3 .family .family-img {
-    width: 100%;
+    width: 85%;
+    padding-bottom: 50px;
   }
   .section3 .family .family-img img {
     width: 100%;
